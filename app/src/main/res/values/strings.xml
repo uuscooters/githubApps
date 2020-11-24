@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">githubUser</string>
+    <string name="user_git">username</string>
+    <string name="company_user">company</string>
+    <string name="location_user">location</string>
+    <string name="user_followers">Followers</string>
+    <string name="user_following">Following</string>
+    <string name="user_username">Username :</string>
+    <string name="search">Search</string>
+    <string name="search_user">Search user</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
